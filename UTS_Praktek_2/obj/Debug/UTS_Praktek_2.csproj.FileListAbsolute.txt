@@ -1,0 +1,6 @@
+c:\users\anis maulidah\documents\visual studio 2012\Projects\UTS_Praktek_2\UTS_Praktek_2\bin\Debug\UTS_Praktek_2.exe.config
+c:\users\anis maulidah\documents\visual studio 2012\Projects\UTS_Praktek_2\UTS_Praktek_2\bin\Debug\UTS_Praktek_2.exe
+c:\users\anis maulidah\documents\visual studio 2012\Projects\UTS_Praktek_2\UTS_Praktek_2\bin\Debug\UTS_Praktek_2.pdb
+c:\users\anis maulidah\documents\visual studio 2012\Projects\UTS_Praktek_2\UTS_Praktek_2\obj\Debug\UTS_Praktek_2.csprojResolveAssemblyReference.cache
+c:\users\anis maulidah\documents\visual studio 2012\Projects\UTS_Praktek_2\UTS_Praktek_2\obj\Debug\UTS_Praktek_2.exe
+c:\users\anis maulidah\documents\visual studio 2012\Projects\UTS_Praktek_2\UTS_Praktek_2\obj\Debug\UTS_Praktek_2.pdb
